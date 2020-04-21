@@ -15,7 +15,7 @@ const int P_ZOOM_IN = 7;  //zoom in
 const int P_ZOOM_OUT = 8; //zoom out
 
 const byte address = 1; //camera address
-byte speed = 100;
+byte speed = 100; // can be changed by pressing left+up or left+down
 
 const byte C_STOP = 0x00;
 const byte C_UP = 0x08;

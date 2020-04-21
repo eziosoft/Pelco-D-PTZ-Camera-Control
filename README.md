@@ -9,3 +9,5 @@ buttons connected to Arduino pins:
 * P_ZOOM_OUT = 8; //zoom out
 
 Pelco D output : Arduino D4
+
+Camera pan speed can be changed by pressing left+up or left+down
